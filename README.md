@@ -52,10 +52,6 @@ th {
       <td>mAP@0.50</td>
       <td>0.7099</td>
     </tr>
-    <tr>
-      <td>F1@0.50</td>
-      <td>0.0775</td>
-    </tr>
   </table>
 </center>
 
