@@ -58,11 +58,10 @@ th {
 </body>
 </html>
 
-
 <html>
 <h3><b> Results Image </h3></b>
 <body>
-    <img src="output.png", width= "75%", height= "75%">
+    <img src="output.png", width= "100%", height= "100%">
 </body>
 </center>
 </html>
